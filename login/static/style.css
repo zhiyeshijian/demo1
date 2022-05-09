@@ -1,0 +1,16 @@
+form {
+  border-width: 25%;
+  margin: 0 25%;
+  text-align: center;
+}
+input {
+  text-align: center;
+  width: 200px;
+  height: 30px;
+  display: inline-block;
+  margin: 5px;
+}
+button {
+  width: 150px;
+  height: 25px;
+}
